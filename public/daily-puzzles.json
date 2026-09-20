@@ -1,1 +1,24 @@
-[]
+{
+  "version": 1,
+  "schemaVersion": 1,
+  "datasetVersion": 2,
+  "generatedAt": "2026-09-20T20:00:00Z",
+  "puzzles": {
+    "2026-09-20": {
+      "id": "generated-apple-spice", "revision": 1, "order": 0,
+      "startWord": "APPLE", "endWord": "SPICE", "fewestSteps": 9, "difficulty": "hard",
+      "knownSolution": ["APPLE","AMPLE","AMBLE","ABLE","ALE","ACE","PACE","SPACE","SPICE"]
+    },
+    "2026-09-21": {
+      "id": "generated-kick-off", "revision": 1, "order": 0,
+      "startWord": "KICK", "endWord": "OFF", "fewestSteps": 7, "difficulty": "hard",
+      "knownSolution": ["KICK","SICK","SOCK","SOAK","OAK","OAF","OFF"]
+    },
+    "2026-09-22": {
+      "id": "generated-tail-gate", "revision": 1, "order": 0,
+      "startWord": "TAIL", "endWord": "GATE", "fewestSteps": 4, "difficulty": "normal",
+      "knownSolution": ["TAIL","TALL","GALL","GALE","GATE"]
+    }
+  },
+  "deletedPuzzleIds": []
+}
